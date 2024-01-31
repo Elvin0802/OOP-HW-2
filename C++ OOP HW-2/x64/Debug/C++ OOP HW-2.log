@@ -1,0 +1,6 @@
+﻿  MyMain.cpp
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW-2\C++ OOP HW-2\Out of Class.h(37,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW-2\C++ OOP HW-2\Out of Class.h(58,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW-2\C++ OOP HW-2\Out of Class.h(157,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW-2\C++ OOP HW-2\MyMain.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  C++ OOP HW-2.vcxproj -> D:\Visual Studio - IDE\C++ Codes File\C++ OOP Codes\C++ OOP HW-2\x64\Debug\C++ OOP HW-2.exe
